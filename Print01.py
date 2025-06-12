@@ -1,1 +1,3 @@
-hi
+print ("     )")
+print ("    (")
+print ("   [_])")

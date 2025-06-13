@@ -1,1 +1,4 @@
-hi
+print ("  =")
+print (" / \ ")
+print (" ) (")
+print (" [_] ")
